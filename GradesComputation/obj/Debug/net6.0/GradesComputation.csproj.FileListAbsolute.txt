@@ -1,0 +1,14 @@
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\bin\Debug\net6.0\GradesComputation.exe
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\bin\Debug\net6.0\GradesComputation.deps.json
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\bin\Debug\net6.0\GradesComputation.runtimeconfig.json
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\bin\Debug\net6.0\GradesComputation.dll
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\bin\Debug\net6.0\GradesComputation.pdb
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\GradesComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\GradesComputation.AssemblyInfoInputs.cache
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\GradesComputation.AssemblyInfo.cs
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\GradesComputation.csproj.CoreCompileInputs.cache
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\GradesComputation.dll
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\refint\GradesComputation.dll
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\GradesComputation.pdb
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\GradesComputation.genruntimeconfig.cache
+C:\Users\garvy ren v capalac\Documents\Visual Studio 2022\Projects\GradesComputation\GradesComputation\obj\Debug\net6.0\ref\GradesComputation.dll
